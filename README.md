@@ -1,4 +1,4 @@
-### Well hello there!
+# This is Krystal.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
